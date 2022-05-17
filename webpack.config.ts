@@ -1,4 +1,4 @@
-import {CustomWebpackTestPlugin} from "./src/app/custom-webpack-test-plugin";
+import {CustomWebpackTestPlugin} from "test-webpack-plugin";
 
 export default {
   plugins: [
